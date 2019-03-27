@@ -26,7 +26,8 @@ Android Studio -> File -> Settings -> Languages & Frameworks -> Flutter -> Flutt
 
 ### Kasutatud allikad: 
 
-#### Youtube: Bram Vanbilsen 
+#### Youtube: 
+Bram Vanbilsen 
 
 https://youtu.be/jBBl1tYkUnE
 
