@@ -1,16 +1,22 @@
-# quizzy
+### Kasutatud allikad:
+https://www.youtube.com/watch?v=jBBl1tYkUnE&t=2183s&index=2&list=PLA9C836D2710AD47E
 
-A new Flutter project.
+### Dart SDK installeerimine:
+https://www.dartlang.org/tools/sdk
+Lihtne kasutajaliidesega teostatav installeerimine. Kõik on kasutaja eest juba tehtud ja pole vaja teha muud kui vajutada next'e ja korras.
+Flutter
 
-## Getting Started
+### Flutter SDK installeerimine:
+https://flutter.dev/docs/get-started/install/windows
+Lae alla flutteri zip fail. -> paki zip lahti ja paiguta lahti pakitud flutteri kaust näiteks asukohta C://src/flutter. 
+NB! Program files'i alamkaustadesse ei soovita paigutada, kuna seal nõutakse rohkem õigusi ja SDK ei pruugi soovitud viisil töötada.
 
-This project is a starting point for a Flutter application.
+### Dart ja Flutter plugin'ide installimine android studiosse:
+Android Studio -> Settings -> Plugins -> Vajuta Search in repositories -> otsinguribalt flutter -> install flutter -> kliki nõusolekut installida korraga ka Dart plugin või tee seda eraldi
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
-
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.io/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+### Android studios kontrolli üle ka SDK'de teekonnad:
+Dart:
+Android Studio -> File -> Settings -> Languages & Frameworks -> Dart -> Dart SDK Path -> default location on C:\src\flutter\bin\cache\dart-sdk
+Lisaks kontrolli ka et oleks linnuke kastis "Enable Dart support for the project 'app_name'
+Flutter:
+Android Studio -> File -> Settings -> Languages & Frameworks -> Flutter -> Flutter SDK Path -> kui järgisite eelnevat installeerimise juhendit, siis rada on C:\src\flutter, juhul kui mitte, siis muutke asukoht selleks, kuhu paigutasite lahti pakitud flutter'i kausta.
