@@ -32,8 +32,6 @@ Github demo repo: Bram Vanbilsen https://github.com/bramvbilsen/Flutter-Quiz-Pre
 
 ### Arvamus juhendist (min 2 lõiku).
 
-### Vajalikud muutused seoses SDK versiooni muutustega.
-
-### Kirjeldus juhendi muudest muutustest rakenduse terviklikumaks muutmiseks.
+### Kirjeldus muutustest rakenduse terviklikumaks muutmiseks.
 
 ### Screenshotid
