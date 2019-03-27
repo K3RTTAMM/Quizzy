@@ -28,7 +28,9 @@ Android Studio -> File -> Settings -> Languages & Frameworks -> Flutter -> Flutt
 
 #### Youtube: Bram Vanbilsen 
 
-https://www.youtube.com/watch?v=jBBl1tYkUnE&t=2183s&index=2&list=PLA9C836D2710AD47E
+https://youtu.be/jBBl1tYkUnE
+
+[![Juhendi video](http://img.youtube.com/vi/jBBl1tYkUnE/0.jpg)](http://www.youtube.com/watch?v=jBBl1tYkUnE "Juhendi video")
 
 #### Github demo repository: 
 Bram Vanbilsen 
