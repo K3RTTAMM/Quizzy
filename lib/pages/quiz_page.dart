@@ -1,12 +1,9 @@
 import 'package:flutter/material.dart';
-
 import '../utils/question.dart';
 import '../utils/quiz.dart';
-
 import '../UI/answer_button.dart';
 import '../UI/question_text.dart';
 import '../UI/correct_wrong_overlay.dart';
-
 import './score_page.dart';
 
 class QuizPage extends StatefulWidget {
@@ -20,7 +17,9 @@ class QuizPageState extends State<QuizPage> {
   Quiz quiz = new Quiz([
     new Question("Elon Musk is human", false),
     new Question("Pizza is healthy", false),
-    new Question("Flutter is awesome", true)
+    new Question("Flutter is awesome", true),
+    new Question("Flutter is awesome", true),
+    new Question("Flutter is awesome", true),
   ]);
   String questionText;
   int questionNumber;
