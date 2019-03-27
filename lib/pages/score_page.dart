@@ -19,9 +19,9 @@ class ScorePage extends StatelessWidget {
             new Text(score.toString() + " out of " + totalQuestions.toString(), style: new TextStyle(color: Colors.white, fontWeight: FontWeight.bold, fontSize: 40.0)),
             new Text("statements right", style: new TextStyle(color: Colors.white, fontWeight: FontWeight.bold, fontSize: 40.0),),
             new IconButton(
-                icon: new Icon(Icons.arrow_right),
+                icon: new Icon(Icons.refresh),
                 color: Colors.white,
-                iconSize: 100.0,
+                iconSize: 150.0,
                 onPressed: () => Navigator.of(context).pushAndRemoveUntil(new MaterialPageRoute(builder: (BuildContext context) => new LandingPage()), (Route route) => route == null)
             ),
           ],
