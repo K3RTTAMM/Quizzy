@@ -24,11 +24,19 @@ Lisaks kontrolli ka et oleks linnuke kastis "Enable Dart support for the project
 Flutter:
 Android Studio -> File -> Settings -> Languages & Frameworks -> Flutter -> Flutter SDK Path -> kui järgisite eelnevat installeerimise juhendit, siis rada on C:\src\flutter, juhul kui mitte, siis muutke asukoht selleks, kuhu paigutasite lahti pakitud flutter'i kausta.
 
-### Viide Juhendile
-Kasutatud allikad: 
+### Kasutatud allikad: 
 
-Youtube: Bram Vanbilsen https://www.youtube.com/watch?v=jBBl1tYkUnE&t=2183s&index=2&list=PLA9C836D2710AD47E
-Github demo repo: Bram Vanbilsen https://github.com/bramvbilsen/Flutter-Quiz-Preview-App
+#### Youtube: 
+Bram Vanbilsen 
+
+https://youtu.be/jBBl1tYkUnE
+
+[![Juhendi video](http://img.youtube.com/vi/jBBl1tYkUnE/0.jpg)](http://www.youtube.com/watch?v=jBBl1tYkUnE "Juhendi video")
+
+#### Github demo repository: 
+Bram Vanbilsen 
+
+https://github.com/bramvbilsen/Flutter-Quiz-Preview-App
 
 ### Arvamus juhendist (min 2 lõiku).
 
