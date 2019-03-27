@@ -47,7 +47,7 @@ class QuestionTextState extends State<QuestionText> with SingleTickerProviderSta
       child: new Padding(
           padding: new EdgeInsets.symmetric(vertical: 20.0),
           child: new Center(
-            child: new Text("Statement " + widget._questionNumber.toString() + ": " + widget._question,
+            child: new Text("Statement " + widget._questionNumber.toString() + "/5: " + widget._question,
               style: new TextStyle(fontSize: _fontSizeAnimation.value * 15),
             ),
           )

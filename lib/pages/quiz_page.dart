@@ -16,10 +16,10 @@ class QuizPageState extends State<QuizPage> {
   Question currentQuestion;
   Quiz quiz = new Quiz([
     new Question("Elon Musk is human", false),
-    new Question("Pizza is healthy", false),
-    new Question("Flutter is awesome", true),
-    new Question("Flutter is awesome", true),
-    new Question("Flutter is awesome", true),
+    new Question("Some insects in China have acid blood that can burn metal", false),
+    new Question("Female kangaroos have three vaginas", true),
+    new Question("Some turtles can breathe through their butts", true),
+    new Question("You cannot die from drinking too much water", false),
   ]);
   String questionText;
   int questionNumber;
