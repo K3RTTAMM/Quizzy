@@ -48,13 +48,13 @@ class CorrectWrongOverlayState extends State<CorrectWrongOverlay> with SingleTic
               ),
               child: new Transform.rotate(
                 angle: _iconAnimation.value * 2 * pi,
-                child: new Icon(widget._isCorrect == true ? Icons.done: Icons.clear, size: _iconAnimation.value * 80.0,),
+                child: new Icon(widget._isCorrect == true ? Icons.done: Icons.clear, size: _iconAnimation.value * 100.0,),
               ),
             ),
             new Padding(
               padding: new EdgeInsets.only(bottom: 20.0),
             ),
-            new Text(widget._isCorrect == true ? "CORRECT!" : "WRONG!", style: new TextStyle(color: Colors.white, fontSize: 30.0, fontWeight: FontWeight.bold),)
+            new Text(widget._isCorrect == true ? "CORRECT!" : "WRONG!", style: new TextStyle(color: Colors.white, fontSize: 40.0, fontWeight: FontWeight.bold),)
           ],
         ),
       ),
