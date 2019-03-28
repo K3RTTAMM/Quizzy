@@ -15,11 +15,18 @@ class QuizPageState extends State<QuizPage> {
 
   Question currentQuestion;
   Quiz quiz = new Quiz([
-    new Question("Elon Musk is human", false),
     new Question("Some insects in China have acid blood that can burn metal", false),
     new Question("Female kangaroos have three vaginas", true),
     new Question("Some turtles can breathe through their butts", true),
     new Question("You cannot die from drinking too much water", false),
+    new Question("Some turtles can breathe through their butts", true),
+    new Question("A Mexican tribe believes Coca Cola is a healing drug", true),
+    new Question("A chicken once lived for 18 months without a head", true),
+    new Question("Chewing gum takes years to digest.", false),
+    new Question("NASA designed a space pen instead of using a pencil", false),
+    new Question("Bats are blind", false),
+
+
   ]);
   String questionText;
   int questionNumber;
