@@ -31,8 +31,6 @@ Bram Vanbilsen
 
 https://youtu.be/jBBl1tYkUnE
 
-[![Juhendi video](http://img.youtube.com/vi/jBBl1tYkUnE/0.jpg)](http://www.youtube.com/watch?v=jBBl1tYkUnE "Juhendi video")
-
 #### Github demo repository: 
 Bram Vanbilsen 
 
