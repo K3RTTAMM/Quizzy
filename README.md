@@ -26,20 +26,16 @@ Android Studio -> File -> Settings -> Languages & Frameworks -> Flutter -> Flutt
 
 ### Kasutatud allikad: 
 
-#### Youtube: 
-Bram Vanbilsen 
-
-https://youtu.be/jBBl1tYkUnE
-
-[![Juhendi video](http://img.youtube.com/vi/jBBl1tYkUnE/0.jpg)](http://www.youtube.com/watch?v=jBBl1tYkUnE "Juhendi video")
+#### YouTube: 
+Bram Vanbilsen - https://youtu.be/jBBl1tYkUnE
 
 #### Github demo repository: 
-Bram Vanbilsen 
-
-https://github.com/bramvbilsen/Flutter-Quiz-Preview-App
+Bram Vanbilsen - https://github.com/bramvbilsen/Flutter-Quiz-Preview-App
 
 ### Arvamus juhendist (min 2 lõiku).
+Juhend oli minu arvates väga hästi tehtud. Juhendi looja seletas tehtavad sammud hästi läbi ja üleüldiselt tundus, et kogu protsess möödus sujuvalt.
 
 ### Kirjeldus muutustest rakenduse terviklikumaks muutmiseks.
+Sai muudetud natukene graafilisi elemente enda nägemise järgi ja lisatud ka küsimusi ning tekstielemente ja nende paigutust muudetud.
 
 ### Screenshotid
