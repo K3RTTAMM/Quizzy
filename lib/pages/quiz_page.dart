@@ -26,7 +26,6 @@ class QuizPageState extends State<QuizPage> {
     new Question("NASA designed a space pen instead of using a pencil", false),
     new Question("Bats are blind", false),
 
-
   ]);
   String questionText;
   int questionNumber;
