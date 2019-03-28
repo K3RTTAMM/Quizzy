@@ -26,15 +26,11 @@ Android Studio -> File -> Settings -> Languages & Frameworks -> Flutter -> Flutt
 
 ### Kasutatud allikad: 
 
-#### Youtube: 
-Bram Vanbilsen 
-
-https://youtu.be/jBBl1tYkUnE
+#### YouTube: 
+Bram Vanbilsen - https://youtu.be/jBBl1tYkUnE
 
 #### Github demo repository: 
-Bram Vanbilsen 
-
-https://github.com/bramvbilsen/Flutter-Quiz-Preview-App
+Bram Vanbilsen - https://github.com/bramvbilsen/Flutter-Quiz-Preview-App
 
 ### Arvamus juhendist (min 2 lõiku).
 Juhend oli minu arvates väga hästi tehtud. Juhendi looja seletas tehtavad sammud hästi läbi ja üleüldiselt tundus, et kogu protsess möödus sujuvalt.
