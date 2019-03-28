@@ -39,7 +39,9 @@ Bram Vanbilsen
 https://github.com/bramvbilsen/Flutter-Quiz-Preview-App
 
 ### Arvamus juhendist (min 2 lõiku).
+Juhend oli minu arvates väga hästi tehtud. Juhendi looja seletas tehtavad sammud hästi läbi ja üleüldiselt tundus, et kogu protsess möödus sujuvalt.
 
 ### Kirjeldus muutustest rakenduse terviklikumaks muutmiseks.
+Sai muudetud natukene graafilisi elemente enda nägemise järgi ja lisatud ka küsimusi ning tekstielemente muudetud.
 
 ### Screenshotid
