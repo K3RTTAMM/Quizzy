@@ -21,6 +21,7 @@ Android Studio -> Settings -> Plugins -> Vajuta Search in repositories -> otsing
 Dart:
 Android Studio -> File -> Settings -> Languages & Frameworks -> Dart -> Dart SDK Path -> default location on C:\src\flutter\bin\cache\dart-sdk
 Lisaks kontrolli ka et oleks linnuke kastis "Enable Dart support for the project 'app_name'
+
 Flutter:
 Android Studio -> File -> Settings -> Languages & Frameworks -> Flutter -> Flutter SDK Path -> kui järgisite eelnevat installeerimise juhendit, siis rada on C:\src\flutter, juhul kui mitte, siis muutke asukoht selleks, kuhu paigutasite lahti pakitud flutter'i kausta.
 
