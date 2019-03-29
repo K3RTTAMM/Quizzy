@@ -33,7 +33,7 @@ Bram Vanbilsen - https://youtu.be/jBBl1tYkUnE
 Bram Vanbilsen - https://github.com/bramvbilsen/Flutter-Quiz-Preview-App
 
 ### Arvamus juhendist (min 2 lõiku).
-Juhend oli minu arvates väga hästi tehtud. Juhendi looja seletas tehtavad sammud hästi läbi ja üleüldiselt tundus, et kogu protsess möödus sujuvalt.
+Juhend oli minu arvates väga hästi tehtud. Juhendi looja seletas tehtavad sammud hästi läbi ja üleüldiselt tundus, et kogu protsess möödus sujuvalt. Juhendis oli ka hästi ära seletatud mida miski element teeb ja kuidas elemendid eri viisidel käituvad. Lisaks kõigele olid klassid ja nendes olev lahti seletatud ja koodi vaadates on üpris lihtsalt aru saada kus miski paikneb ja mida miski teeb.
 
 ### Kirjeldus muutustest rakenduse terviklikumaks muutmiseks.
 Sai muudetud natukene graafilisi elemente enda nägemise järgi ja lisatud ka küsimusi ning tekstielemente ja nende paigutust muudetud.
