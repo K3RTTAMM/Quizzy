@@ -19,11 +19,11 @@ Android Studio -> Settings -> Plugins -> Vajuta Search in repositories -> otsing
 
 ### Android studios kontrolli üle ka SDK'de teekonnad:
 Dart:
-Android Studio -> File -> Settings -> Languages & Frameworks -> Dart -> Dart SDK Path -> default location on C:\src\flutter\bin\cache\dart-sdk
+Android Studio -> File -> Settings -> Languages & Frameworks -> Dart -> Dart SDK Path -> vaikimisi asukoht on C:\src\flutter\bin\cache\dart-sdk
 Lisaks kontrolli ka et oleks linnuke kastis "Enable Dart support for the project 'app_name'
 
 Flutter:
-Android Studio -> File -> Settings -> Languages & Frameworks -> Flutter -> Flutter SDK Path -> kui järgisite eelnevat installeerimise juhendit, siis rada on C:\src\flutter, juhul kui mitte, siis muutke asukoht selleks, kuhu paigutasite lahti pakitud flutter'i kausta.
+Android Studio -> File -> Settings -> Languages & Frameworks -> Flutter -> Flutter SDK Path -> kui järgisite eelnevat installeerimise juhendit, siis asukoht on C:\src\flutter, juhul kui mitte, siis muutke asukoht selleks, kuhu paigutasite lahti pakitud flutter'i kausta.
 
 ### Kasutatud allikad: 
 
@@ -37,6 +37,6 @@ Bram Vanbilsen - https://github.com/bramvbilsen/Flutter-Quiz-Preview-App
 Juhend oli minu arvates väga hästi tehtud. Juhendi looja seletas tehtavad sammud hästi läbi ja üleüldiselt tundus, et kogu protsess möödus sujuvalt. Juhendis oli ka hästi ära seletatud mida miski element teeb ja kuidas elemendid eri viisidel käituvad. Lisaks kõigele olid klassid ja nendes olev lahti seletatud ja koodi vaadates on üpris lihtsalt aru saada kus miski paikneb ja mida miski teeb.
 
 ### Kirjeldus muutustest rakenduse terviklikumaks muutmiseks.
-Sai muudetud natukene graafilisi elemente enda nägemise järgi ja lisatud ka küsimusi ning tekstielemente ja nende paigutust muudetud.
+Sai muudetud natukene graafilisi elemente enda nägemise järgi ja lisatud ka küsimusi ning tekstielemente ja lisaks nende paigutust muudetud.
 
 ### Screenshotid
