@@ -40,3 +40,8 @@ Juhend oli minu arvates väga hästi tehtud. Juhendi looja seletas tehtavad samm
 Sai muudetud natukene graafilisi elemente enda nägemise järgi ja lisatud ka küsimusi ning tekstielemente ja lisaks nende paigutust muudetud.
 
 ### Screenshotid
+<img align="left" width="149" height="256" src="pic1.jpg">
+<img align="left" width="149" height="256" src="pic2.jpg">
+<img align="left" width="149" height="256" src="pic3.jpg">
+<img align="left" width="149" height="256" src="pic4.jpg">
+<img align="left" width="149" height="256" src="pic5.jpg">
