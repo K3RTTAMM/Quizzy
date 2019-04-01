@@ -7,17 +7,16 @@
 ### Dart SDK installeerimine:
 https://www.dartlang.org/tools/sdk
 Lihtne kasutajaliidesega teostatav installeerimine. Kõik on kasutaja eest juba tehtud ja pole vaja teha muud kui vajutada next'e ja korras.
-Flutter
 
 ### Flutter SDK installeerimine:
 https://flutter.dev/docs/get-started/install/windows
 Lae alla flutteri zip fail. -> paki zip lahti ja paiguta lahti pakitud flutteri kaust näiteks asukohta C://src/flutter. 
-#### NB! Program files'i alamkaustadesse ei soovita paigutada, kuna seal nõutakse rohkem õigusi ja SDK ei pruugi soovitud viisil töötada.
+#### NB! Program Files'i alamkaustadesse ei soovita paigutada, kuna seal nõutakse rohkem õigusi ja SDK ei pruugi soovitud viisil töötada.
 
 ### Dart ja Flutter plugin'ide installimine android studiosse:
 Android Studio -> Settings -> Plugins -> Vajuta Search in repositories -> otsinguribalt flutter -> install flutter -> kliki nõusolekut installida korraga ka Dart plugin või tee seda eraldi
 
-### Android studios kontrolli üle ka SDK'de teekonnad:
+### Android Studios kontrolli üle ka SDK'de teekonnad:
 Dart:
 Android Studio -> File -> Settings -> Languages & Frameworks -> Dart -> Dart SDK Path -> vaikimisi asukoht on C:\src\flutter\bin\cache\dart-sdk
 Lisaks kontrolli ka et oleks linnuke kastis "Enable Dart support for the project 'app_name'
